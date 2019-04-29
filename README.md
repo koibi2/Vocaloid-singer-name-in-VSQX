@@ -63,6 +63,6 @@ Gumi：
 ## 二、伴奏信息
 文件最后有个 `stTrack` 标签。
 
-><filePath><![CDATA[【洛天依】XXXXX.wav]]></filePath>
+> <filePath><![CDATA[【洛天依】XXXXX.wav]]></filePath>
 
 中括号里面的就是。
