@@ -29,7 +29,8 @@ Vocaloid歌手信息的对应表。vocaloid singer's name in vsqx(vocaloid3、4)
     }, 
     {
         "星尘": [
-            "XINGCHEN_Original"
+            "XINGCHEN_Original",
+            "Stardust"
         ]
     }, 
     {
