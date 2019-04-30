@@ -1,0 +1,61 @@
+[
+    {
+        "初音ミク": [
+            "MIKU_V3_Original",
+            "MIKU_V3_Sweet",
+            "MIKU_V4X_Beta_EVEC",
+            "MIKU_V4X_Dark",
+            "MIKU_V4X_Original_EVEC",
+            "MIKU_V4X_Original_EVEC(MIKU_V4_English)",
+            "MIKU_V4X_Original_EVEC\/Soft_EVEC",
+            "MIKU_V4X_Soft_EVEC",
+            "MIKU_V4X_Solid_EVEC",
+            "MIKU_V4X_Sweet",
+            "MIKU_V4_Chinese",
+            "MIKU_V4_Chinese_Patched",
+            "MIKU_V4_English",
+            "miku EN",
+            "miku JP"
+        ]
+    },
+    {
+        "镜音リン（镜音铃）": [
+            "RIN V4X POWER-SWEET",
+            "RIN_V4X_Power\/Warm",
+            "RIN_V4X_Power_EVEC",
+            "RIN_V4X_Power_EVEC\/Warm",
+            "RIN_V4X_Sweet",
+            "RIN_V4X_Warm",
+            "RIN_V4X_Warm\/Sweet",
+            "rin JP"
+        ]
+    },
+    {
+        "镜音レン（镜音连）": [
+            "LEN_V4X_Power_EVEC",
+            "LEN_V4X_Power_EVEC\/Cold",
+            "LEN_V4X_Serious",
+            "LEN_V4X_Serious\/Cold",
+            "Len_cold(V2)(MIKU_V4X_Original_EVEC)",
+            "Len_power(V2)"
+        ]
+    },
+    {
+        "Gumi": [
+            "Megpoid_English",
+            "Megpoid_V4_Power"
+        ]
+    },{
+        "巡音ルカ": [
+            "LUKA_V4X_Hard",
+            "LUKA_V4X_Hard_EVEC",
+            "LUKA_V4X_Hard_EVEC\/Hard",
+            "Luka_JPN(V2)"
+        ]
+    },{
+        "IA": [
+            "IA",
+            "IA_ROCKS"
+        ]
+    }
+]
