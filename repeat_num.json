@@ -1,239 +1,239 @@
 {
     "repeat_num_list": [
         {
-            "singer": 'YANHE',
+            "singer": "YANHE",
             "repeat_num": 102
         },
         {
-            "singer": 'YuezhenglingV3',
+            "singer": "YuezhenglingV3",
             "repeat_num": 82
         },
         {
-            "singer": 'Luotianyi_CHN_Meng',
+            "singer": "Luotianyi_CHN_Meng",
             "repeat_num": 60
         },
         {
-            "singer": 'Tianyi_CHN',
+            "singer": "Tianyi_CHN",
             "repeat_num": 38
         },
         {
-            "singer": 'XINGCHEN_Original',
+            "singer": "XINGCHEN_Original",
             "repeat_num": 29
         },
         {
-            "singer": 'YuezhengLongya_Chun',
+            "singer": "YuezhengLongya_Chun",
             "repeat_num": 28
         },
         {
-            "singer": 'Moqingxian',
+            "singer": "Moqingxian",
             "repeat_num": 23
         },
         {
-            "singer": 'MIKU_V4_Chinese',
+            "singer": "MIKU_V4_Chinese",
             "repeat_num": 20
         },
         {
-            "singer": 'Luotianyi_CHN_Ning',
+            "singer": "Luotianyi_CHN_Ning",
             "repeat_num": 20
         },
         {
-            "singer": 'ZhiyuMoke',
+            "singer": "ZhiyuMoke",
             "repeat_num": 20
         },
         {
-            "singer": 'XinhuaV4CHN',
+            "singer": "XinhuaV4CHN",
             "repeat_num": 19
         },
         {
-            "singer": 'Xin_Hua',
+            "singer": "Xin_Hua",
             "repeat_num": 17
         },
         {
-            "singer": 'MIKU_V4X_Original_EVEC',
+            "singer": "MIKU_V4X_Original_EVEC",
             "repeat_num": 16
         },
         {
-            "singer": 'RIN_V4X_Power_EVEC',
+            "singer": "RIN_V4X_Power_EVEC",
             "repeat_num": 14
         },
         {
-            "singer": 'YuezhengLongya_Ya',
+            "singer": "YuezhengLongya_Ya",
             "repeat_num": 12
         },
         {
-            "singer": 'Luotianyi_JPN_Normal',
+            "singer": "Luotianyi_JPN_Normal",
             "repeat_num": 10
         },
         {
-            "singer": 'Luotianyi_CHN_Meng/Ning',
+            "singer": "Luotianyi_CHN_Meng/Ning",
             "repeat_num": 9
         },
         {
-            "singer": 'LEN_V4X_Power_EVEC',
+            "singer": "LEN_V4X_Power_EVEC",
             "repeat_num": 8
         },
         {
-            "singer": 'kokone',
+            "singer": "kokone",
             "repeat_num": 7
         },
         {
-            "singer": '言和',
+            "singer": "言和",
             "repeat_num": 7
         },
         {
-            "singer": 'MIKU_V4X_Soft_EVEC',
+            "singer": "MIKU_V4X_Soft_EVEC",
             "repeat_num": 7
         },
         {
-            "singer": '乐正绫',
+            "singer": "乐正绫",
             "repeat_num": 7
         },
         {
-            "singer": 'Luotianyi_JPN_Sweet',
+            "singer": "Luotianyi_JPN_Sweet",
             "repeat_num": 6
         },
         {
-            "singer": 'v4flower',
+            "singer": "v4flower",
             "repeat_num": 6
         },
         {
-            "singer": '天依 萌/V4凝',
+            "singer": "天依 萌/V4凝",
             "repeat_num": 5
         },
         {
-            "singer": 'UNAV4_Spicy',
+            "singer": "UNAV4_Spicy",
             "repeat_num": 5
         },
         {
-            "singer": 'Megpoid_V4_Power',
+            "singer": "Megpoid_V4_Power",
             "repeat_num": 5
         },
         {
-            "singer": '阿绫',
+            "singer": "阿绫",
             "repeat_num": 5
         },
         {
-            "singer": 'Iroha_Soft',
+            "singer": "Iroha_Soft",
             "repeat_num": 4
         },
         {
-            "singer": 'MIKU_V3_Original',
+            "singer": "MIKU_V3_Original",
             "repeat_num": 4
         },
         {
-            "singer": 'RIN_V4X_Power_EVEC/Warm',
+            "singer": "RIN_V4X_Power_EVEC/Warm",
             "repeat_num": 4
         },
         {
-            "singer": 'MIKU_V4_Chinese_Patched',
+            "singer": "MIKU_V4_Chinese_Patched",
             "repeat_num": 4
         },
         {
-            "singer": 'LEN_V4X_Power_EVEC/Cold',
+            "singer": "LEN_V4X_Power_EVEC/Cold",
             "repeat_num": 3
         },
         {
-            "singer": 'MIKU_V4_English',
+            "singer": "MIKU_V4_English",
             "repeat_num": 3
         },
         {
-            "singer": 'YuezhengLongya_Ya/Chun',
+            "singer": "YuezhengLongya_Ya/Chun",
             "repeat_num": 3
         },
         {
-            "singer": 'UNAV4_Sugar',
+            "singer": "UNAV4_Sugar",
             "repeat_num": 3
         },
         {
-            "singer": 'XinhuaJP_Power',
+            "singer": "XinhuaJP_Power",
             "repeat_num": 3
         },
         {
-            "singer": 'MIKU_V4X_Beta_EVEC',
+            "singer": "MIKU_V4X_Beta_EVEC",
             "repeat_num": 3
         },
         {
-            "singer": '星尘',
+            "singer": "星尘",
             "repeat_num": 3
         },
         {
-            "singer": 'MIKU_V4X_Solid_EVEC',
+            "singer": "MIKU_V4X_Solid_EVEC",
             "repeat_num": 3
         },
         {
-            "singer": '天依',
+            "singer": "天依",
             "repeat_num": 3
         },
         {
-            "singer": 'Oliver',
+            "singer": "Oliver",
             "repeat_num": 3
         },
         {
-            "singer": 'MIKU_V4X_Dark',
+            "singer": "MIKU_V4X_Dark",
             "repeat_num": 3
         },
         {
-            "singer": 'Xinhua',
+            "singer": "Xinhua",
             "repeat_num": 3
         },
         {
-            "singer": '洛天依V4萌',
+            "singer": "洛天依V4萌",
             "repeat_num": 3
         },
         {
-            "singer": '攻柯',
+            "singer": "攻柯",
             "repeat_num": 3
         },
         {
-            "singer": '洛天依V3',
+            "singer": "洛天依V3",
             "repeat_num": 3
         },
         {
-            "singer": 'LUKA_V4X_Hard',
+            "singer": "LUKA_V4X_Hard",
             "repeat_num": 2
         },
         {
-            "singer": 'Akari',
+            "singer": "Akari",
             "repeat_num": 2
         },
         {
-            "singer": 'LEN_V4X_Serious',
+            "singer": "LEN_V4X_Serious",
             "repeat_num": 2
         },
         {
-            "singer": '浪叫言和',
+            "singer": "浪叫言和",
             "repeat_num": 2
         },
         {
-            "singer": '乐正龙牙-淳',
+            "singer": "乐正龙牙-淳",
             "repeat_num": 2
         },
         {
-            "singer": '言舞_Blink_V2',
+            "singer": "言舞_Blink_V2",
             "repeat_num": 2
         },
         {
-            "singer": 'miku EN',
+            "singer": "miku EN",
             "repeat_num": 2
         },
         {
-            "singer": 'Miku_light(V2)',
+            "singer": "Miku_light(V2)",
             "repeat_num": 2
         },
         {
-            "singer": 'Yi_Ling',
+            "singer": "Yi_Ling",
             "repeat_num": 2
         },
         {
-            "singer": 'RIN_V4X_Power/Warm',
+            "singer": "RIN_V4X_Power/Warm",
             "repeat_num": 2
         },
         {
-            "singer": 'miku JP',
+            "singer": "miku JP",
             "repeat_num": 2
         },
         {
-            "singer": '天依_萌/凝',
+            "singer": "天依_萌/凝",
             "repeat_num": 2
         }
     ]
